@@ -1,0 +1,10 @@
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (1, 'Tully', 'gtully0@constantcontact.com', '23/11/1983');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (2, 'Claridge', 'gclaridge1@craigslist.org', '2/12/1993');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (3, 'Elstow', 'lelstow2@google.it', '22/3/1971');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (4, 'Stobbart', 'tstobbart3@dedecms.com', '4/11/1984');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (5, 'Kalinsky', 'hkalinsky4@google.com.br', '22/2/1978');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (6, 'Lahive', 'vlahive5@netvibes.com', '27/9/2003');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (7, 'Ingerman', 'lingerman6@discovery.com', '14/5/1999');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (8, 'Spowart', 'cspowart7@squarespace.com', '24/5/1991');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (9, 'Lepard', 'ilepard8@huffingtonpost.com', '26/5/1975');
+insert into Usuario (idUsuario, nome_completo, email, data_nascimento) values (10, 'Fotherby', 'afotherby9@jalbum.net', '29/11/1987');
