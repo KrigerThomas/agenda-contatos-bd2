@@ -1,0 +1,1 @@
+SELECT * FROM endereco WHERE id_contato < 1;
