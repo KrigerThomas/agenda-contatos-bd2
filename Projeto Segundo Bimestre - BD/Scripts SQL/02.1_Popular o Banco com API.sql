@@ -1,4 +1,5 @@
 -- Populanda a tabela endereço com 1000 registros utilizando a API mockaroo como segue o link: https://mockaroo.com/
+-- Executar só 1 vez!
 
 insert into endereco (id_endereco, id_contato, rua, numero, complemento, bairro, cidade, estado, cep) values (1, (SELECT id_contato FROM contato ORDER BY RAND() LIMIT 1), 'Melby', '41057', 'apt 817', 'Midtown', 'Seoul', 'GA', '97320');
 insert into endereco (id_endereco, id_contato, rua, numero, complemento, bairro, cidade, estado, cep) values (2, (SELECT id_contato FROM contato ORDER BY RAND() LIMIT 1), 'Dryden', '06789', 'apt 574', 'Downtown', 'Seattle', 'CO', '20937');
