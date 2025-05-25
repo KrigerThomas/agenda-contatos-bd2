@@ -1,4 +1,4 @@
--- Exemplos de Stored Procedures para popular o banco (Criar a procedure povoar_usuarios primeiro e depois executar o restante do código)
+-- Exemplos de Stored Procedures para popular o banco (Criar a procedure povoar_usuarios primeiro, povoar ela via CMD e depois executar o restante do código)
 
 -- Stored Procedure tabela Usuario / INSERINDO UM MILHÃO DE REGISTROS PARA TESTAR 
 DELIMITER $$
