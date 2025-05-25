@@ -1,32 +1,34 @@
-# Projeto - Agenda de Contatos 📒
+# 📒 Projeto - Agenda de Contatos
 
-Projeto desenvolvido para a disciplina de Banco de Dados II (UVV – 2025/1), orientado pelo professor Jean-Rémi Bourguet.
+Projeto desenvolvido para a disciplina **Banco de Dados II (UVV – 2025/1)**, orientado pelo professor **Jean-Rémi Bourguet**.
 
 ## 🔍 Objetivo
-Criar e manipular um banco de dados para gerenciar uma agenda de contatos, com funcionalidades como:
-- Cadastro de contatos
-- Endereços e múltiplos telefones
-- Classificação por categorias (ex: família, amigos)
-- Consultas e otimizações com índices
-- Gatilhos e procedimentos armazenados
 
-## 👥 Integrantes do Grupo (em ordem alfabética)
-- ANTONY NOVAIS NUNES
-- CÍCERO CALIL SALIM
-- DANILO JOSÉ DE SOUZA ARAÚJO
-- GUSTAVO PREZOTTI MORELLI
-- HEITOR RODRIGUES ARAUJO
+Desenvolver um banco de dados relacional completo para gerenciar uma agenda de contatos, incluindo:
+- Cadastro de usuários, contatos, telefones, endereços e categorias
+- Procedures para povoamento automático
+- Consultas SQL avançadas e índices para otimização
+- Gatilhos (triggers) e funções UDF
+- Exportação e importação via CSV
+
+## 👥 Integrantes do Grupo
+
+- Antony Novais Nunes  
+- Cícero Calil Salim  
+- Danilo José de Souza Araújo  
+- Gustavo Prezotti Morelli  
+- Heitor Rodrigues Araujo  
 - Thomás Kriger
 
-## 🧱 Estrutura do Projeto
-- `sql/`: scripts SQL organizados por fase (estrutura, povoamento, etc.)
-- `docs/`: documentos, prints e instruções para a entrega
-- `api/`: (opcional) código da API com acesso ao banco
+## 🚀 Destaques Técnicos
 
-## 🚀 Tecnologias
-- MySQL
-- MySQL Workbench
-- (opcional) Python Flask / Node.js para a API
+✅ Banco relacional completo com dados realistas  
+✅ Procedures para gerar grandes volumes (1 milhão+ registros)  
+✅ Triggers para log de eventos automáticos  
+✅ Funções UDF para cálculos diretos em consultas  
+✅ Consultas e índices otimizados para desempenho  
+✅ Exportação/importação eficiente com Python e SQL
 
-## 📷 Entrega
-Cada integrante deve publicar a versão final do projeto em seu blog conforme as instruções do professor.
+## 📢 Observação Final
+
+Este repositório contém os scripts e materiais finais entregues ao professor, além do relatório completo do projeto.
